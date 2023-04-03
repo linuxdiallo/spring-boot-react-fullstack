@@ -1,0 +1,8 @@
+com\example\demo\DemoApplication.class
+com\example\demo\student\exception\StudentNotFoundException.class
+com\example\demo\student\Student.class
+com\example\demo\student\Gender.class
+com\example\demo\student\StudentRepository.class
+com\example\demo\student\StudentController.class
+com\example\demo\student\exception\BadRequestException.class
+com\example\demo\student\StudentService.class
