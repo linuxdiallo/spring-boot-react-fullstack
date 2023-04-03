@@ -246,8 +246,7 @@
 								 <goal>npm</goal>
 							 </goals>
 							 <configuration>
-								 <arguments>install</arguments>
-								 <arguments>--force</arguments>
+								 <arguments>install --force</arguments>
 							 </configuration>
 						 </execution>
 						 <execution>
