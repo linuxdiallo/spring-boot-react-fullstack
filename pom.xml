@@ -241,12 +241,13 @@
 							 </configuration>
 						 </execution>
 						 <execution>
-							 <id>npm install --force</id>
+							 <id>npm install</id>
 							 <goals>
 								 <goal>npm</goal>
 							 </goals>
 							 <configuration>
 								 <arguments>install</arguments>
+								 <arguments>--force</arguments>
 							 </configuration>
 						 </execution>
 						 <execution>
