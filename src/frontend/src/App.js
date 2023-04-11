@@ -12,7 +12,7 @@ import StudentDrawerForm from "./StudentDrawerForm";
 import {
     Avatar,
     Badge,
-    Breadcrumb, Button, Empty,
+    Breadcrumb, Button, Divider, Empty, Image,
     Layout,
     Menu, Popconfirm, Radio, Spin,
     Table, Tag
@@ -215,7 +215,13 @@ function App() {
                         {renderStudents()}
                     </div>
                 </Content>
-                <Footer style={{textAlign: 'center'}}>By CodePro Team &copy; 2023</Footer>
+                <Footer style={{textAlign: 'center'}}>
+                    <Image
+                    width={75}
+                    src="https://user-images.githubusercontent.com/46399723/231156020-696ffeb9-52cf-47ad-ac03-4c43547d0cfc.png"
+                    />
+                    <Divider>By CodePro Team &copy; 2023</Divider>
+                </Footer>
             </Layout>
         </Layout>
     );
