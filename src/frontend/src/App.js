@@ -215,13 +215,13 @@ function App() {
                         {renderStudents()}
                     </div>
                 </Content>
-               {/* <Footer style={{textAlign: 'center'}}>
+                <Footer style={{textAlign: 'center'}}>
                     <Image
                     width={75}
                     src="https://user-images.githubusercontent.com/46399723/231156020-696ffeb9-52cf-47ad-ac03-4c43547d0cfc.png"
                     />
                     <Divider>By amigoscode community &copy; 2023</Divider>
-                </Footer>*/}
+                </Footer>
             </Layout>
         </Layout>
     );
