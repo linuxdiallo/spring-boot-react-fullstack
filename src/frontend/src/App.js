@@ -220,7 +220,7 @@ function App() {
                     width={75}
                     src="https://user-images.githubusercontent.com/46399723/231156020-696ffeb9-52cf-47ad-ac03-4c43547d0cfc.png"
                     />
-                    <Divider>By CodePro Team &copy; 2023</Divider>
+                    <Divider>By amigoscode community &copy; 2023</Divider>
                 </Footer>
             </Layout>
         </Layout>
